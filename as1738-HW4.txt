@@ -1,0 +1,4 @@
+Way to run my source code:
+
+  Have nltk and numpy imported
+  Run using python3 as17388-HW4.py
